@@ -47,7 +47,7 @@ require (
 	github.com/twpayne/go-xdg/v4 v4.0.0
 	github.com/yuin/goldmark v1.3.5 // indirect
 	github.com/zalando/go-keyring v0.1.1
-	go.etcd.io/bbolt v1.3.5
+	go.etcd.io/bbolt v1.3.6
 	go.uber.org/multierr v1.7.0
 	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf // indirect
 	golang.org/x/net v0.0.0-20210508051633-16afe75a6701 // indirect
