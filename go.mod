@@ -14,7 +14,6 @@ require (
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/go-git/go-billy/v5 v5.3.1 // indirect
 	github.com/go-git/go-git/v5 v5.3.0
-	github.com/godbus/dbus/v5 v5.0.4 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-github/v35 v35.2.0
 	github.com/google/go-querystring v1.1.0 // indirect
@@ -32,7 +31,7 @@ require (
 	github.com/pelletier/go-toml v1.9.0
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/rogpeppe/go-internal v1.8.0
-	github.com/rs/zerolog v1.21.0
+	github.com/rs/zerolog v1.23.0
 	github.com/sergi/go-diff v1.1.0
 	github.com/smartystreets/assertions v1.2.0 // indirect
 	github.com/spf13/afero v1.6.0 // indirect
